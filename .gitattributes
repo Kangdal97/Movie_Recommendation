@@ -1,0 +1,4 @@
+C:/Users/KANG-DAL/PycharmProjects/Asiae/Movie_Recommendation/models/Tfidf_movie_review.mtx filter=lfs diff=lfs merge=lfs -text
+C:/Users/KANG-DAL/PycharmProjects/Asiae/Movie_Recommendation/crawling/naver_movie_reviews_onesentence_2015-2021.csv filter=lfs diff=lfs merge=lfs -text
+C:/Users/KANG-DAL/PycharmProjects/Asiae/Movie_Recommendation/crawling/naver_movie_reviews_2015-2021.csv filter=lfs diff=lfs merge=lfs -text
+C:/Users/KANG-DAL/PycharmProjects/Asiae/Movie_Recommendation/crawling/cleaned_review_2015-2021.csv filter=lfs diff=lfs merge=lfs -text
